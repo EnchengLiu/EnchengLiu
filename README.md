@@ -26,6 +26,7 @@
 | **Communication**                                      | [![TCP/IP Badge](https://img.shields.io/badge/-TCP%2FIP-FF0000?style=flat&logo=Internet&logoColor=white)](https://en.wikipedia.org/wiki/Internet_protocol_suite) ![RS485](https://img.shields.io/badge/-RS485-007ACC?style=flat) ![Modbus](https://img.shields.io/badge/-Modbus-00CC00?style=flat) ![CANBUS](https://img.shields.io/badge/-CANBUS-FFA500?style=flat) ![UART](https://img.shields.io/badge/-UART-FF4500?style=flat) ![RS232](https://img.shields.io/badge/-RS232-4682B4?style=flat)| 
 
 
+![image](https://github.com/EnchengLiu/EnchengLiu/blob/main/github-metrics.svg)
 
 </div>
 
