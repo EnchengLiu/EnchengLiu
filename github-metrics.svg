@@ -2313,8 +2313,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="21.350739511017203 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">215</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="21.450045276184724 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">216</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/3313</text>
                                 </svg>
                                 <span class="title">All</span>
@@ -2331,8 +2331,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge medium">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="21.452394691286784 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">113</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="21.642238892094632 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">114</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/1733</text>
                                 </svg>
                                 <span class="title">Medium</span>
@@ -2501,7 +2501,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Developer
-                                    <span class="gh">ranked 9.65m out of 145m users</span>
+                                    <span class="gh">ranked 9.65m out of 146m users</span>
                                 </div>
                                 <div class="text">Published 7 public repositories</div>
                             </div>
@@ -2703,7 +2703,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 8 Oct 2024, 13:11:48 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 8 Oct 2024, 14:12:34 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
