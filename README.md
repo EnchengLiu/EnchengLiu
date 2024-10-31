@@ -11,7 +11,7 @@
 
 ### ⚡️ A quick introduction
 
-- 🌱 I’m currently learning about Sensor Fusion. 
+- 🌱 I’m currently doing my second master from computer science. 
 - 🤟🏻 I love learning new things until I achieve proficiency. Sometimes it's a sport (biking ...), sometimes it's a hobby (cooking, photography, riding on a circuit...), and at times, it's another OpenSource path (Desktop Robot, Mini Monitor...).
 - 🤣 When you saw I was frequently updating my repo, that is probably the school time
 ---
